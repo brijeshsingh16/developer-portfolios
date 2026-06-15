@@ -352,6 +352,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## B
 
+- [Brijesh Singh](https://brijesh-two.vercel.app/)
 - [Badhon Ai](https://www.badhon.online)
 - [Badhon Biswas](https://badhonbiswas.vercel.app)
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
