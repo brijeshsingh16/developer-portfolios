@@ -352,7 +352,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## B
 
-- [Brijesh Singh](https://brijesh-two.vercel.app/) [PHP & MySQL Full Stack Developer | UI Designer]
+- [Brijesh Singh](https://brijesh-two.vercel.app/) [PHP & MySQL Full Stack Web Developer | UI Designer]
 - [Badhon Ai](https://www.badhon.online)
 - [Badhon Biswas](https://badhonbiswas.vercel.app)
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
